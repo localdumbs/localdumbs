@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love to make games with good stories and art direction!<br>Most of my games are coded in luau or typescript!<br>My current project is a story game im making using roblox-ts.
+I love to make games with good stories and art direction!<br>Most of my games are written in Luau or TypeScript!<br>My current project is a story game I'm making using roblox-ts.
 
 
 ## 🌐 Socials:
