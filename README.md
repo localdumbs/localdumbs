@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently making a retro Opensource Multiplayer fps in unreal engine<br>I love to make games with unique styles.
+I love to make games with unique styles! <be> I code most of my roblox games in typescript!
 
 
 ## 🌐 Socials:
