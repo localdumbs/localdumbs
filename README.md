@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love to make games with good stories and art direction!<br>Most of my games are written in Luau!<br>My current project is a puzzle horror game like lethal company!
+I love to make games!<br>Most of my games are written in Luau!<br>
 
 
 ## 🌐 Socials:
